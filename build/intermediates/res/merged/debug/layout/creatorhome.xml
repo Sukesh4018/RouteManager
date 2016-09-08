@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <fragment
+            android:id="@+id/map"
+            class="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+        <LinearLayout
+            android:id="@+id/route_info_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/selectCity"
+                android:textSize="18sp" />
+
+            <Spinner
+                android:id="@+id/city_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:spinnerMode="dropdown" />
+
+            <TextView
+                android:id="@+id/addCityLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/addCity"
+                android:textSize="18sp"
+                android:visibility="gone" />
+
+            <EditText
+                android:id="@+id/addCity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/addCity"
+                android:inputType="textCapWords"
+                android:textSize="18sp"
+                android:visibility="gone" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/selectCorp"
+                android:textSize="18sp" />
+
+            <Spinner
+                android:id="@+id/corp_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:spinnerMode="dropdown" />
+
+            <TextView
+                android:id="@+id/addCorpLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/addCorp"
+                android:textSize="18sp"
+                android:visibility="visible" />
+
+            <EditText
+                android:id="@+id/addCorp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/addCorp"
+                android:inputType="textCapWords"
+                android:textSize="18sp"
+                android:visibility="visible" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/route"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/route_no"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/route"
+                android:inputType="textCapCharacters"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Current Location"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/latitute_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginRight="10dp"
+                android:hint="Latitute"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/longitute_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:hint="Longitute"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/stop_handler_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <Button
+                android:id="@+id/add_stop"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="addStop"
+                android:text="Add Stop at current location"
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="5"
+                    android:layout_marginRight="5dp"
+                    android:text="Done  and Upload"/>
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="5"
+                    android:text="Done and save"
+                    android:layout_marginLeft="5dp"
+                    android:onClick="saveData"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="saveStops"
+            android:text="Save Data and Exit"
+            android:visibility="gone" />
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/create_route"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="create"
+                android:text="@string/button_create"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/reset_form"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="reset"
+                android:text="@string/button_reset"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/get_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="getLocation"
+                android:text="@string/get_location_btn"
+                android:textSize="16dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
+

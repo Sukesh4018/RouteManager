@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="30dp"
+    >
+
+    <Button
+	android:layout_width = "match_parent"
+	android:layout_height = "wrap_content"
+	android:layout_weight = "1"
+	android:text = "@string/button_createEnd2End"
+	android:onClick = "createEnd2End" />
+
+    <Button
+	android:layout_width = "match_parent"
+	android:layout_height = "wrap_content"
+	android:layout_weight = "1"
+	android:text = "@string/button_editSaved"
+	android:layout_marginTop = "30dp"
+	android:onClick = "editSaved" />
+
+    <Button
+	android:layout_width = "match_parent"
+	android:layout_height = "wrap_content"
+	android:layout_weight = "1"
+	android:text = "@string/button_uploadSaved"
+	android:layout_marginTop = "30dp"
+	android:onClick = "uploadSaved" />'
+
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center_horizontal"
+	    >
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Server IP: " />
+
+	<EditText
+		android:id="@+id/ip"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_weight="1" />
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Change IP"
+		android:onClick="changeIP" />
+
+	</LinearLayout>
+
+</LinearLayout>
+

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal" >
+
+	    <TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/showStop"
+		android:textSize="18sp" />
+	
+	    <TextView 
+		android:id="@+id/showStop"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:gravity="center_horizontal"
+		android:textSize="20sp"
+		android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal" >
+
+    	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+	    android:layout_weight="1"	
+	    android:orientation="vertical" >
+
+		    <TextView
+			android:id="@+id/stopNewView"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:textSize="18sp"
+			android:text="@string/stopName"
+			android:visibility="invisible" />
+
+		    <EditText
+			android:id="@+id/stopNew"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:textSize="18sp"
+			android:hint="@string/stopName"
+			android:inputType="textCapWords"
+			android:visibility="invisible" />
+
+	</LinearLayout>
+	     
+	    <Button
+		android:id="@+id/changeButton"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/button_stopNew"
+		android:textSize="16sp"
+		android:onClick="changeButtonClick" />
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal" >	
+    	
+	<TextView 
+		android:layout_width="4sp"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:text="@string/lat"
+		android:textSize="18sp" />
+
+	<TextView 
+		android:layout_width="4sp"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:text="@string/lon"
+		android:textSize="18sp" />
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal" >	
+    	
+	<EditText 
+		android:id="@+id/loc_lat"
+		android:layout_width="4sp"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:textSize="18sp"
+		android:hint="@string/lat"
+		android:editable="false" />
+
+	<EditText
+		android:id="@+id/loc_lon" 
+		android:layout_width="4sp"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:textSize="18sp"
+		android:hint="@string/lon"
+		android:editable="false" />
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal"
+	android:layout_gravity="center_horizontal" >	
+    	
+	<Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/button_get_loc"
+	    android:textSize="16sp"
+	    android:onClick="CopyLoc" />
+
+	<Button
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/button_refineLoc"
+	    android:textSize="16sp"
+	    android:onClick="storeLoc" />	
+
+    </LinearLayout>
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal"
+	android:layout_gravity="center_horizontal" >
+
+	<Button
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/button_skipStop"
+	    android:textSize="16sp"
+	    android:onClick="skipStop" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/button_addAnother"
+	    android:textSize="16sp"
+	    android:onClick="addStop" />
+
+    </LinearLayout>
+
+    <TextView 
+	android:id="@+id/showLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+	android:text="@string/greet"
+	android:textSize="20sp"
+	android:layout_weight="1"
+	android:gravity="center" />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal"
+	android:layout_gravity="center_horizontal" >	
+
+	<Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/button_uploadCreator"
+	    android:textSize="16sp"
+	    android:onClick="upload" />
+    	
+	<Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/button_saveCreator"
+	    android:textSize="16sp" 
+	    android:onClick="save"/>	
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/button_cancel"
+	    android:textSize="16sp" 
+	    android:onClick="cancel" />
+
+    </LinearLayout> 
+
+</LinearLayout>

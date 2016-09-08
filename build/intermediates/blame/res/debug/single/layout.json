@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\creatormain.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\src\\main\\res\\layout\\creatormain.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\stops_list_item.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\src\\main\\res\\layout\\stops_list_item.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\filelister.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\src\\main\\res\\layout\\filelister.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\manager.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\src\\main\\res\\layout\\manager.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\stop_info_dialog_layout.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\src\\main\\res\\layout\\stop_info_dialog_layout.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\activity_upload.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\src\\main\\res\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\creatorhome.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\src\\main\\res\\layout\\creatorhome.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\editsavedhome.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\src\\main\\res\\layout\\editsavedhome.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\editnames.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\src\\main\\res\\layout\\editnames.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\edithome.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\src\\main\\res\\layout\\edithome.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\editrefine.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\src\\main\\res\\layout\\editrefine.xml"
+    },
+    {
+        "merged": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "U:\\routemanager-master\\routemanager-master\\RouteManager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    }
+]

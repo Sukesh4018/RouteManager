@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Route Manager</string>
+    <string name="creator">Route Creator</string>
+    <string name="editor">Route Editor</string>
+    <string name="list">Show Route!</string>
+
+    <string name="DirName">BusRoutes</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="button_createEnd2End">Provide route data!</string>
+    <string name="button_editSaved">Edit routes saved on device!</string>
+    <string name="button_uploadSaved">Upload data saved on device!</string>
+    <string name="button_edit">Edit Route!</string>
+    <string name="button_editNames">Edit Names!</string>
+    <string name="button_refine">Refine stored values!</string>
+    <string name="button_home">Home</string>
+
+    <string name="button_cancel">Cancel</string>
+    <string name="button_create">Create Route!</string>
+    <string name="button_reset">Reset Form</string>
+    <string name="button_uploadCreator">Upload!</string>
+    <string name="button_saveCreator">Save for editing!</string>
+    <string name="button_get_loc">Copy Location</string>
+    <string name="button_add">Add Stop</string>
+    <string name="button_addAnother">Add another Stop!</string>
+    <string name="button_createAnother">Create another Route!</string>
+    <string name="button_editAnother">Edit another Route!</string>
+
+    <string name="stopName">Enter Stop Name</string>
+    <string name="stop">Stop No.: </string>
+    <string name="lat">Latitude</string>
+    <string name="lon">Longitude</string>
+
+    <string name="greet">Hello!</string>
+    <string name="route">Enter Route No.</string>
+    <string name="source">Enter Source: </string>
+    <string name="destination">Enter Bus destination</string>
+    <string name="selectCity">Please select your city</string>
+    <string name="selectCorp">Please select Bus Corporation</string>
+    <string name="selectRoute">Please select Route</string>
+    <string name="addCity">Enter City Name</string>
+    <string name="addCorp">Enter Bus Corporation name</string>
+    <string name="newCity">Create database for new City</string>
+    <string name="newCorp">Create database for new Bus Corporation</string>
+    <string name="selectBoard">Select stop you\'re Boarding from!</string>
+    <string name="boardInfo">If your stop is unavailable, choose the first stop available after your stop.\nIf your stop is after the last available stop, choose the last stop.</string>
+
+    <string name="routeName">Route No.: </string>
+    <string name="routeNew">New Route No.</string>
+    <string name="button_routeNew">Change\nRoute No.</string>
+    <string name="srcName">Bus Source: </string>
+    <string name="destName">Bus Destination: </string>
+    <string name="srcNew">Enter new Source</string>
+    <string name="button_srcNew">Change\nSource</string>
+    <string name="destNew">Enter new Destination</string>
+    <string name="button_destNew">Change\nDestination</string>
+    <string name="stopSel">Select a stop</string>
+    <string name="stopNew">New Name-</string>
+    <string name="button_stopNew">Change\nStop Name</string>
+
+    <string name="showStop">Stop Name: </string>
+    <string name="button_saveStop">Save\nStop Name</string>
+    <string name="button_refineLoc">Store Location!</string>
+    <string name="button_skipStop">Skip this stop!</string>
+    <string name="lastStop">This was the last stop we knew!</string>
+
+    <string name="routeEmpty">Route No. cannot be left Empty!</string>
+    <string name="cityEmpty">Please select a city, or add new!</string>
+    <string name="corpEmpty">Please select a bus corporation, or add new</string>
+    <string name="srcEmpty">Source cannot be left Empty!</string>
+    <string name="destEmpty">Destination cannot be left Empty!</string>
+    <string name="stopEmpty">Stop Name cannot be left Empty!</string>
+    <string name="addCityEmpty">City Name cannot be left Empty!</string>
+    <string name="addCorpEmpty">Bus Corporation Name cannot be left Empty</string>
+    <string name="routeSplCh">Special Characters are not allowed in Route No.</string>
+    <string name="citySplCh">Special Characters are not allowed in City Name</string>
+    <string name="corpSplCh">Special Characters are not allowed in Bus Corporation Name</string>
+    <string name="srcSplCh">Special Characters are not allowed in Source</string>
+    <string name="destSplCh">Special Characters are not allowed in Destionation</string>
+    <string name="routeEndSplCh">Route No. shouldn\'t end with underscore</string>
+    <string name="cityEndSplCh">City Name shouldn\'t end with underscore</string>
+    <string name="corpEndSplCh">Bus Corporation Name shouldn\'t end with underscore</string>
+    <string name="srcEndSplCh">Source shouldn\'t end with underscore</string>
+    <string name="destEndSplCh">Destination shouldn\'t end with underscore</string>
+    <string name="cityNotSel">Please select a city!</string>
+    <string name="routeNotSel">Please select a route!</string>
+    <string name="stopNotSel">Please select a stop!</string>
+
+    <string name="latEmpty_error">Latitude cannot be left Empty!</string>
+    <string name="lonEmpty_error">Longitude cannot be left Empty!</string>
+    <string name="latRange_error">Latitude does not lie in valid Range!</string>
+    <string name="lonRange_error">Longitude does not lie in valid Range!</string>
+    <string name="add_success">Stop Added Successfully!</string>
+
+    <string name="loc_unav">Location Unavailable! Please turn on Location Services</string>
+    <string name="loc_av">Your current location is: </string>
+    <string name="loc_acc">Your location is accurate to: </string>
+
+    <string name="gps_enabled">GPS Enabled!</string>
+    <string name="gps_disabled">GPS Disabled!</string>
+    <string name="gps_unav">GPS Unavailable! Please come out in the open!</string>
+    <string name="gps_temp_unav">GPS Temporarily Unavailable! Please Wait!</string>
+    <string name="gps_av">GPS Now Available!</string>
+
+    <string name="routeKey">com.BRP.routemanager.ROUTE_KEY</string>
+    <string name="cityKey">com.BRP.routemanager.CITY_KEY</string>
+    <string name="parentKey">com.BRP.routemanager.PARENT_KEY</string>
+    <string name="stopListKey">com.BRP.routemanager.STOPLIST_KEY</string>
+    <string name="latListKey">com.BRP.routemanager.LATLIST_KEY</string>
+    <string name="lonListKey">com.BRP.routemanager.LONLIST_KEY</string>
+    <string name="posKey">com.BRP.routemanager.POSITION_KEY</string>
+    <string name="title_activity_upload">UploadActivity</string>
+
+    <string name="Loading">Uploading...</string>
+    <string name="wait">Please Wait...\nUploading Route Data...</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="prompt_username">Username</string>
+    <string name="google_api_key">AIzaSyDWG1FdZv4f-4Fbvx8SqY15BoXRi9aiswU</string>
+    <string name="get_location_btn">Get Location</string>
+
+</resources>
