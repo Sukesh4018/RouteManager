@@ -362,7 +362,7 @@ public class RouteCreator extends Activity
             intent.putExtra(getString(R.string.routeKey), routeName);
             intent.putExtra(getString(R.string.cityKey), cityName);
             intent.putExtra(getString(R.string.parentKey), "create");
-            startActivity(intent);
+            startActivity(i ntent);
             finish();
         }*/
     }
